@@ -1,44 +1,40 @@
 {
   "narratives": [
-    "Stablecoins as payment infrastructure",
-    "Wallets as financial interface",
-    "Real-world crypto spending: card, QR, bank transfer",
-    "Tokenized assets and market access",
-    "Prediction markets and information finance",
-    "Self-custody, security and user risk",
-    "Regulation and compliance",
-    "Institutional adoption and enterprise infrastructure",
-    "Emerging markets and financial access",
-    "Competitor/product coverage"
-  ],
-  "beats": [
-    "Stablecoins",
-    "Payments",
-    "Wallets",
-    "RWA",
-    "Prediction Markets",
-    "Security",
-    "Regulation",
-    "DeFi",
-    "Enterprise API",
-    "Emerging Markets",
-    "AI/Agentic Commerce"
-  ],
-  "actions": [
-    "Pitch",
-    "Commentary",
-    "Follow up",
-    "Monitor",
-    "No action"
-  ],
-  "sentiment": [
-    "Positive",
-    "Neutral",
-    "Critical"
-  ],
-  "relevance": [
-    "High",
-    "Medium",
-    "Low"
+    {
+      "name": "Stablecoins / Payments",
+      "keywords": ["stablecoin", "stablecoins", "USDT", "USDC", "payment", "payments", "settlement", "remittance", "cross-border", "merchant", "checkout", "QR code", "card"]
+    },
+    {
+      "name": "Wallets / Self-Custody",
+      "keywords": ["wallet", "wallets", "self-custody", "self custody", "custody", "private key", "seed phrase", "onchain account"]
+    },
+    {
+      "name": "Tokenized Assets / RWA",
+      "keywords": ["tokenized", "tokenization", "RWA", "real-world asset", "stocks", "ETF", "Treasury", "Treasuries", "xStocks", "Ondo"]
+    },
+    {
+      "name": "Prediction Markets",
+      "keywords": ["prediction market", "prediction markets", "Polymarket", "Kalshi", "forecast market", "sports betting", "event market"]
+    },
+    {
+      "name": "Regulation / Policy",
+      "keywords": ["regulation", "regulator", "SEC", "CFTC", "FCA", "MiCA", "GENIUS Act", "compliance", "license", "lawsuit"]
+    },
+    {
+      "name": "Market Structure / Trading",
+      "keywords": ["trading", "exchange", "DEX", "liquidity", "derivatives", "perpetual", "perps", "memecoin", "market maker"]
+    },
+    {
+      "name": "Security / Risk",
+      "keywords": ["hack", "exploit", "phishing", "scam", "security", "breach", "attack", "drain", "fraud"]
+    },
+    {
+      "name": "AI / Agentic Finance",
+      "keywords": ["AI", "agent", "agentic", "autonomous", "x402", "chatbot", "automation"]
+    },
+    {
+      "name": "Other / General Market",
+      "keywords": []
+    }
   ]
 }
