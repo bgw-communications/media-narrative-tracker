@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Media Narrative Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">PR Narrative Intelligence</p>
+      <h1>Media Narrative Tracker</h1>
+      <p class="subhead">Track which journalists and publications are shaping narratives across stablecoins, wallets, payments, RWAs, prediction markets, regulation and security.</p>
+    </div>
+    <div class="hero-actions">
+      <a href="data/articles.csv" class="button">Download Article CSV</a>
+      <a href="docs/UPDATE_GUIDE.md" class="button secondary">Update Guide</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="toolbar card">
+      <label>Search
+        <input id="searchInput" type="search" placeholder="Publication, journalist, company, title..." />
+      </label>
+      <label>Narrative
+        <select id="narrativeFilter"><option value="">All narratives</option></select>
+      </label>
+      <label>Beat
+        <select id="beatFilter"><option value="">All beats</option></select>
+      </label>
+      <label>Relevance
+        <select id="relevanceFilter"><option value="">All relevance</option><option>High</option><option>Medium</option><option>Low</option></select>
+      </label>
+    </section>
+
+    <section class="kpis">
+      <div class="card kpi"><span id="articleCount">0</span><p>Tracked articles</p></div>
+      <div class="card kpi"><span id="journalistCount">0</span><p>Journalist targets</p></div>
+      <div class="card kpi"><span id="publicationCount">0</span><p>Publications</p></div>
+      <div class="card kpi"><span id="highRelevanceCount">0</span><p>High relevance articles</p></div>
+    </section>
+
+    <section class="grid two">
+      <div class="card">
+        <div class="section-head"><h2>Narrative momentum</h2><p>Article volume by narrative</p></div>
+        <div id="narrativeChart" class="bar-list"></div>
+      </div>
+      <div class="card">
+        <div class="section-head"><h2>Beat mix</h2><p>Coverage focus across monitored articles</p></div>
+        <div id="beatChart" class="bar-list"></div>
+      </div>
+    </section>
+
+    <section class="grid two">
+      <div class="card">
+        <div class="section-head"><h2>Journalists by focus</h2><p>Target list mapped by beat and region</p></div>
+        <div id="journalistMap" class="tag-cloud"></div>
+      </div>
+      <div class="card">
+        <div class="section-head"><h2>PR action queue</h2><p>Pitch, commentary and follow-up opportunities</p></div>
+        <div id="actionQueue" class="action-list"></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-head"><h2>Coverage table</h2><p>Edit <code>data/articles.csv</code> to update this table.</p></div>
+      <div class="table-wrap">
+        <table id="coverageTable">
+          <thead>
+            <tr>
+              <th>Date</th><th>Publication</th><th>Journalist</th><th>Title</th><th>Narrative</th><th>Sentiment</th><th>Relevance</th><th>Action</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-head"><h2>Media target database</h2><p>Generated from the uploaded publication and journalist lists.</p></div>
+      <div class="table-wrap compact">
+        <table id="targetTable">
+          <thead><tr><th>Publication</th><th>Reporter</th><th>Beat</th><th>Region</th><th>Tier</th><th>Notes</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Maintained by PR team. Data source: <code>data/articles.csv</code>, <code>data/media_targets.json</code>, <code>data/taxonomy.json</code>.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

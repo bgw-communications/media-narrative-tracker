@@ -1,0 +1,44 @@
+{
+  "narratives": [
+    "Stablecoins as payment infrastructure",
+    "Wallets as financial interface",
+    "Real-world crypto spending: card, QR, bank transfer",
+    "Tokenized assets and market access",
+    "Prediction markets and information finance",
+    "Self-custody, security and user risk",
+    "Regulation and compliance",
+    "Institutional adoption and enterprise infrastructure",
+    "Emerging markets and financial access",
+    "Competitor/product coverage"
+  ],
+  "beats": [
+    "Stablecoins",
+    "Payments",
+    "Wallets",
+    "RWA",
+    "Prediction Markets",
+    "Security",
+    "Regulation",
+    "DeFi",
+    "Enterprise API",
+    "Emerging Markets",
+    "AI/Agentic Commerce"
+  ],
+  "actions": [
+    "Pitch",
+    "Commentary",
+    "Follow up",
+    "Monitor",
+    "No action"
+  ],
+  "sentiment": [
+    "Positive",
+    "Neutral",
+    "Critical"
+  ],
+  "relevance": [
+    "High",
+    "Medium",
+    "Low"
+  ]
+}

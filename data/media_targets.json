@@ -1,0 +1,5066 @@
+{
+  "generated_at": "2026-05-10",
+  "count": 506,
+  "targets": [
+    {
+      "publication": "TradingView",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 30347701,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinMarketCap",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 9326014,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Investopedia",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 8156524,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Seeking Alpha",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 4865474,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Benzinga",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1987964,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Stockwits",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1243214,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Block",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1016881,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "FXStreet",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 977240,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bitcoin.com",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 909782,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "BeInCrypto",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 671254,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "TokenPost",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 665746,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Cryptonews.com",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 475175,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CryptoSlate",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 459347,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "PYMNTS",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 435809,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CryptoRank",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 391562,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinPedia",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 316418,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Cointelegraph",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 342269,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bitcoin News",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 392413,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinGape",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 223640,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Invezz",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 300643,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinStats",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 273055,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CCN",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 220152,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Finance Magnates",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 191943,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "FinanceFeeds",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 108077,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Blockchain Reporter",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 144696,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Cryptopolitan",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 132155,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Crypto.news",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 180250,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "DL News",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 170522,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Yellow",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 170754,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bitcoin Magazine",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 242289,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Finextra",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 215834,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Coinpaper",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 188914,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinCentral",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 103345,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CryptoPotato",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 199359,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinSpeaker",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 104413,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "99Bitcoins",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 151794,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Cryptoast",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 185636,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bitcoinist",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 108840,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "AMBCrypto",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 132392,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CryptoBriefing",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 53216,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Brave New Coin",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 44183,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Crowdfund Insider",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 41952,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Blockworks",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 40669,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CryptoPanic",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 64183,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Blockster",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 14148,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Fintech Review",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 3749,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Markets Media",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 28592,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinTrust",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 3168,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Fintech Finance News",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 77522,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Money Check",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 4082,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bankless Times",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 31669,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Cryptonomist",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 7084,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Coin Edition",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 45496,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Daily Coin",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 51286,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Sandmark",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 23851,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Crypto Times",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 23154,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Defiant",
+      "reporter": "",
+      "beat": "Crypto/Trade",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 94090,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Investing.com",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 33158976,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Banker",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 103820,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Financial Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 14698051,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The New York Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 146388434,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "MSN",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 85694671,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CNN",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 98592217,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Wall Street Journal",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 28985193,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "NDTV",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 44785876,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Aol",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 30808828,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Euronews",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22432154,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Independent UK",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 31648119,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CNBC",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35676220,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Yahoo Finance",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 43073033,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Washington Post",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22418502,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Telegraph",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 19302074,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "NY Post",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35139401,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Bloomberg News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 19434866,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "POLITICO",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 18055575,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Economic Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 10920568,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "U.S. News & World Report",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 14743096,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Independent US",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 11490816,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "LA Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": "16,4154,74",
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "NewsBreak",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 13954344,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Mint",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 15336491,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Charlotte Business Journal",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 6053869,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Asianet News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 9419290,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "ABC News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 1100284,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Dnyuz",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 235687,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CP24",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 3676175,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Newsmax",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 3453626,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Straits Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 4701177,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CNA",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 40840,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CTV News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 8230076,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Emirates 24/7",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 291801,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Irish Times",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 3925959,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Flipboard",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 1026328,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Inkl",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 429685,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Sherwood News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 989795,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Paypers",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 59909,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Barron's",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 3311810,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "IndexBox",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 142583,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Deseret News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 2509200,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Startup",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 82345,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Ground News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 2195838,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Financial Promoter",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 2602,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Financial Post",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 990101,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "e27",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 75392,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "The Daily Record",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 83770,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "WN.com",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 199209,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "ARY News",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 1096508,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "Impact Newswire",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 96,
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "TheStreet",
+      "reporter": "",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "Publication target",
+      "source": "publications.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "Helene Braun",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "Krisztian Sandor",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "Omkar Godbole",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Yellow.com",
+      "reporter": "Murtuza Merchant",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bitcoin.com",
+      "reporter": "Jamie Redman",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 909782,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinMarketCap",
+      "reporter": "Yousra Anwar Ahmed",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 9326014,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinMarketCap",
+      "reporter": "Hassan Shafiq",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 9326014,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointelegraph",
+      "reporter": "Christina Comben",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 342269,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointelegraph",
+      "reporter": "Helen Partz",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 342269,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto.News",
+      "reporter": "Micah Zimmerman",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 180250,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto.News",
+      "reporter": "Dorian Batycka",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 180250,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coinspeaker",
+      "reporter": "José Rafael Peña Gholam",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 104413,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CCN",
+      "reporter": "James Morales",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 220152,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CCN",
+      "reporter": "Kurt Robson",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 220152,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finance Magnates",
+      "reporter": "Jared Kirui",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 191943,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finance Magnates",
+      "reporter": "Tareq Sikder",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 191943,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "DeFi Rate",
+      "reporter": "Cheryle Shepstone",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "DL News",
+      "reporter": "Aleks Gilbert",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 170522,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "DL News",
+      "reporter": "Liam Kelly",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 170522,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Block",
+      "reporter": "Danny Park",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1016881,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Block",
+      "reporter": "Daniel Kuhn",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1016881,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "André Beganski",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "Callan Quinn",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "AMB Crypto",
+      "reporter": "Priya NV",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "AMB Crypto",
+      "reporter": "Suzuki Shillsalot",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto News",
+      "reporter": "Jayson Derrick",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto News",
+      "reporter": "Dorian Batycka",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointrust",
+      "reporter": "Kelly Cromley",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 3168,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BeInCrypto",
+      "reporter": "Brian McGleenon",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 671254,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BeInCrypto",
+      "reporter": "Oluwapelumi Adejumo",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 671254,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "U.Today",
+      "reporter": "Benjamin Godfrey",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoSlate",
+      "reporter": "Mike Dalton",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 459347,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoSlate",
+      "reporter": "Liam Wright",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 459347,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoPotato",
+      "reporter": "Chayanika Deka",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 199359,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoPotato",
+      "reporter": "Jordan Lyanchev",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 199359,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Unchained",
+      "reporter": "Jacob Oliver",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Motley Fool",
+      "reporter": "Alex Carchidi",
+      "beat": "Crypto",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Associated Press",
+      "reporter": "Ken Sweet",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Associated Press",
+      "reporter": "Matt O'Brien",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Barrons",
+      "reporter": "Joe Light",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bloomberg",
+      "reporter": "Emily Nicolle",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bloomberg",
+      "reporter": "Muyao Shen",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bloomberg",
+      "reporter": "Suvashree Ghosh",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Libby Kane",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNBC",
+      "reporter": "MacKenzie Sigalos",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35676220,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNBC",
+      "reporter": "Dylan Butts",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35676220,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNBC",
+      "reporter": "Tanaya Macheel",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35676220,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "Jeff John Roberts",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "Leo Schwartz",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "Boaz Sobrado",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "Nina Bambysheva",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes Advisor Canada",
+      "reporter": "Aaron Broverman",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes Advisor Canada",
+      "reporter": "Courtney Reilly-Larke",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Street",
+      "reporter": "Mehab Qureshi",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Street",
+      "reporter": "Robert Powell",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Niket Nishant",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Hannah Lang",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Yahoo Finance",
+      "reporter": "David Hollerith",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 43073033,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Yahoo Finance",
+      "reporter": "Josh Schafer",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 43073033,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Financial Times",
+      "reporter": "Philip Stafford",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Financial Times",
+      "reporter": "Nikou Asgari",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Guardian UK",
+      "reporter": "Shane Hickey",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Independent UK",
+      "reporter": "Vicky Shaw",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 31648119,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechRadar",
+      "reporter": "Chiara Castro",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "PCMag",
+      "reporter": "Jibin Joseph",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Wes Davis",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Sheena Vasani",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "POLITICO Europe",
+      "reporter": "Eliza Gkritsi",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Ana Altchek",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNN Business",
+      "reporter": "Lisa Eadicicco",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Daily Mail",
+      "reporter": "Stacy Liberatore",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Futurism",
+      "reporter": "Victor Tangermann",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechCrunch",
+      "reporter": "Kyle Wiggers",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechCrunch",
+      "reporter": "Rebecca Szkutak",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The New York Times",
+      "reporter": "Natasha Singer",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 146388434,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The New York Times",
+      "reporter": "Kashmir Hill",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 146388434,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Mia Sato",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Nilay Patel",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Yahoo Finance",
+      "reporter": "Brian Sozzi",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 43073033,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Yahoo Finance",
+      "reporter": "Daniel Howley",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 43073033,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "ZDNet",
+      "reporter": "Radhika Rajkumar",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "ZDNet",
+      "reporter": "Kerry Wan",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "ZDNet",
+      "reporter": "Sabrina Ortiz",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Ars Technica",
+      "reporter": "Ryan Whitwam",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Ars Technica",
+      "reporter": "Kevin Purdy",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Rosalie Chan",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNET",
+      "reporter": "Attila Tomaschek",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNET",
+      "reporter": "Bree Fowler",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "Cassie Bottorff",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "Jenn Brice",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "PYMNTS",
+      "reporter": "Editors",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 435809,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Joseph Cioffi",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Raphael Satter",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "New York Post",
+      "reporter": "Ariel Zilber",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The New York Times",
+      "reporter": "Eli Tan",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 146388434,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Paypers",
+      "reporter": "Editors",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 59909,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Jess Weatherbed",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Verge",
+      "reporter": "Lauren Feiner",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "VentureBeat",
+      "reporter": "Michael Nuñez",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "VentureBeat",
+      "reporter": "Dean Takahashi",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tom's Guide",
+      "reporter": "Mo Harber-Lamond",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "VICE",
+      "reporter": "Matt Jancer",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WireCutter",
+      "reporter": "Max Eddy",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WIRED",
+      "reporter": "Andy Greenberg",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WIRED",
+      "reporter": "Scott Gilbertson",
+      "beat": "Mainstream",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Agence France-Presse (AFP)",
+      "reporter": "Lucie Lequier",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BBC",
+      "reporter": "Joe Tidy",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Benzinga/Techopedia",
+      "reporter": "Mark de Wolf",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Theron Mohamed",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Robert Scammell",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinCodex",
+      "reporter": "Vuk Martin",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CoinSpeaker, U.Today",
+      "reporter": "Godfrey Benjamin",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto Daily",
+      "reporter": "Laurie Dunn",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finance Feeds",
+      "reporter": "Rick Steeves",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FinTech Futures",
+      "reporter": "Paul Hindle",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FinTech Magazine",
+      "reporter": "Louis Thompsett",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FSTech",
+      "reporter": "Tommy Wilkes",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FT BRR",
+      "reporter": "Francesca Washtell",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Investing.com",
+      "reporter": "Sam Boughedda",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 33158976,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Invezz",
+      "reporter": "Harsh Vardhan",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 300643,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "MSN UK",
+      "reporter": "Jonathan Prynn",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "NBC News",
+      "reporter": "Cheryll Simpson",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Sifted",
+      "reporter": "Martin Coulter",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Sifted",
+      "reporter": "Tom Matsuda",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech.co",
+      "reporter": "Isobel O'Sullivan",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech.eu",
+      "reporter": "Lucy Adams",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech.eu",
+      "reporter": "John Reynolds",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechBullion",
+      "reporter": "Angela Scott-Briggs",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechBullion",
+      "reporter": "Ethan Lee",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Banker",
+      "reporter": "John Everington",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 103820,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Banker",
+      "reporter": "Simon Duffy",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 103820,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Independent",
+      "reporter": "Anthony Cuthbertson",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Independent",
+      "reporter": "Andrew Griffin",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Telegraph",
+      "reporter": "Matthew Field",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 19302074,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Telegraph",
+      "reporter": "James Titcomb",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 19302074,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Telegraph",
+      "reporter": "Dominic Penna",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 19302074,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Times UK",
+      "reporter": "Alex Ralph",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "This is Money",
+      "reporter": "Lee Boyce",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "This is Money and Mail Online",
+      "reporter": "Daniel Fessahaye",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "This is Money Podcast",
+      "reporter": "Simon Lambert",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "UKTN",
+      "reporter": "Oscar Hornstein",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Financial News",
+      "reporter": "Lars Mucklejohn",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Financial News",
+      "reporter": "David Wighton",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fintech Futures",
+      "reporter": "Tyler Pathe",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Abendzeitung",
+      "reporter": "Markus Lohmüller",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BILD",
+      "reporter": "Sarfochs Frank Ochse",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Boersen Zeitung",
+      "reporter": "Christoph Ruhkamp",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Boersen Zeitung",
+      "reporter": "Carsten Steevens",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Börsen-Zeitung",
+      "reporter": "Lutz Knappmann",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BTC ECHO",
+      "reporter": "Daniel Hoppmann",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BTC ECHO",
+      "reporter": "Johannes MacSwayed",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BTC ECHO",
+      "reporter": "Moritz Draht",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Der Spiegel",
+      "reporter": "Martin Hesse",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Der Spiegel",
+      "reporter": "Angela Gruber",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Der Tagesspiegel",
+      "reporter": "Carla Neuhaus",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Der Tagesspiegel",
+      "reporter": "Viola Heeger",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Deutsche Welle (DW)",
+      "reporter": "Nina Haase",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Die Welt",
+      "reporter": "Daniel Eckert",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Die Welt",
+      "reporter": "Holger Zschäpitz",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Die Zeit",
+      "reporter": "Jakob von Lindern",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Die Zeit",
+      "reporter": "Uwe Jean Heuser",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FinanceFWD",
+      "reporter": "Caspar Schlenk",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Focus",
+      "reporter": "Sascha Rose",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Frankfurter Allgemeine Zeitung",
+      "reporter": "Christian Siedenbiedel",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Frankfurter Allgemeine Zeitung",
+      "reporter": "Benjamin Wagener",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Handelsblatt",
+      "reporter": "Yasmin Osman",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Handelsblatt",
+      "reporter": "Astrid Dörner",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Heise online",
+      "reporter": "Axel Kannenberg",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Heise online",
+      "reporter": "Andreas Sebayang",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Investing.com",
+      "reporter": "Davit Kirakosyan",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 33158976,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Kryptoszene",
+      "reporter": "Christian Brandstoetter",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters Germany",
+      "reporter": "Andreas Rinke",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Sueddeutsche Zeitung",
+      "reporter": "Thomas Fromm",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Sueddeutsche Zeitung",
+      "reporter": "Thomas Öchsner",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Taz.de / Die Tageszeitung",
+      "reporter": "Leon Holly",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Taz.de / Die Tageszeitung",
+      "reporter": "Daniel Bax",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Windows Report",
+      "reporter": "Vladimir Popescu",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WirtschaftsWoche",
+      "reporter": "Philipp Frohn",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WirtschaftsWoche",
+      "reporter": "Saskia Littmann",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coin Academy",
+      "reporter": "Alex Leroux",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coin Tribune",
+      "reporter": "Luc José Adjinacou",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coin Tribune",
+      "reporter": "Emile Stantina",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coins.fr",
+      "reporter": "Stanislas Pogorzelski",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointonaute",
+      "reporter": "Farid Bouyengoulene",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cryptoast",
+      "reporter": "Marine Debelloir",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 185636,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cryptoast",
+      "reporter": "Vincent Maire",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 185636,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoGlobe",
+      "reporter": "Siamak Masnavi",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cryptonaute",
+      "reporter": "Romaric Saint-aubert",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "EduBourse",
+      "reporter": "Pierre Perrin-Monlouis",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Euronews",
+      "reporter": "Doloresz Katanich",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22432154,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finyear",
+      "reporter": "Anne Laure",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Futura",
+      "reporter": "Daniel Ichbiah",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Journal du Coin",
+      "reporter": "Ben Canton",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "La Tribune",
+      "reporter": "Jean-Victor Semeraro",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "La Tribune",
+      "reporter": "Maxime Heuze",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Le Figaro",
+      "reporter": "Jorge Carasso",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Le Monde",
+      "reporter": "Marc Angrand",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Les Echos",
+      "reporter": "Thomas Pontiroli",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Les Echos",
+      "reporter": "Samir Touzani",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Numerara",
+      "reporter": "Aurore Gayte",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Numerara",
+      "reporter": "Julien Lausson",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech Crunch",
+      "reporter": "Romain Dillet",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Big Whale",
+      "reporter": "Raphael Bloch",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Big Whale",
+      "reporter": "Grégory Raymond",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "99bitcoins",
+      "reporter": "Akriti Seth",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 151794,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bilanz",
+      "reporter": "Erich Gerbl",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Blick",
+      "reporter": "Levin Stamm",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Blick",
+      "reporter": "Tobias Bolzern",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto Valley Journal",
+      "reporter": "Rino Borini",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Daily Coin",
+      "reporter": "Nazar Kuzmyn",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 51286,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Financial Times",
+      "reporter": "Mercedes Ruehl",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 14698051,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finews.com",
+      "reporter": "Florian Schwab",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finews.com",
+      "reporter": "York Runne",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fintech Switzerland",
+      "reporter": "Christian König",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Handelszeitung",
+      "reporter": "Michael Hotz",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Handelszeitung",
+      "reporter": "Nicola Imfeld",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Investopedia",
+      "reporter": "Adam Hayes",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 8156524,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Le Temps",
+      "reporter": "Grégoire Barbey",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Le Temps",
+      "reporter": "Sébastien Ruche",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Neue Zürcher Zeitung",
+      "reporter": "Ruth Fulterer",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "SwissInfo.ch, BBC",
+      "reporter": "Imogen Foulkes",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tages Anzeiger",
+      "reporter": "Rafael Zeier",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tages Anzeiger",
+      "reporter": "Nik Walter",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tamedia AG",
+      "reporter": "Thomas Knellwolf",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tribune de Genève",
+      "reporter": "Pierre-Alexandre Sallier",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Watson News",
+      "reporter": "Reto Fehr",
+      "beat": "Regional",
+      "region": "EU",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "AP",
+      "reporter": "Niniek Karmini",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "BlockBeats",
+      "reporter": "Edward Zhang",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Coin Gabbar",
+      "reporter": "Sourabh Agrawal",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "DealStreetAsia",
+      "reporter": "Stephanie Li",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Finews.asia",
+      "reporter": "Richard Otsuki",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "FinTech Magazine",
+      "reporter": "James Darly",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "Cat Wang",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "SCMP",
+      "reporter": "Xinmei Shen",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "SCMP",
+      "reporter": "Aileen Chuang",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "SCMP / The Korea Times",
+      "reporter": "Yeon Woo Lee",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech In Asia",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Asian Banker",
+      "reporter": "Foo Boon Ping",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Digital Banker",
+      "reporter": "editorial",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Straits Times",
+      "reporter": "Claire Huang",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 4701177,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "The Straits Times",
+      "reporter": "Sheila Chiang",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 4701177,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Vulcan Post",
+      "reporter": "Ishan Singh",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Vulcan Post",
+      "reporter": "Yoganeetha Sivakumar",
+      "beat": "Regional",
+      "region": "APAC",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "African Business Magazine",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "African Business Magazine",
+      "reporter": "Faustine Ngila",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Business Today Egypt",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNBC Africa",
+      "reporter": "Fifi Peters",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CNBC Africa",
+      "reporter": "Akinkunmi Obakeye",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Disrupt Africa",
+      "reporter": "Tom Jackson",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Financial Afrik",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fintech Africa",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Fintech News Africa",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbs Africa",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "IT News Africa",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Morocco World News",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters Africa",
+      "reporter": "Jessica Donati",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tech Africa News",
+      "reporter": "Newsdesk",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "TechCabal",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Techpoint Africa",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CryptoSlate",
+      "reporter": "Oluwapelumi Adejumo",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 459347,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Mariblock",
+      "reporter": "Editorial",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Africa Tech Summit Podcast",
+      "reporter": "Staff",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Disrupt Africa Podcast",
+      "reporter": "Gabriella",
+      "beat": "Regional",
+      "region": "Africa",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Estadão (O Estado de S. Paulo) Brazil",
+      "reporter": "Einar Rivero",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Estadão (O Estado de S. Paulo) Brazil",
+      "reporter": "Felipe Laurence",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Exame Brazil",
+      "reporter": "Maria Clara Dias",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Folha de S.Paulo Brazil",
+      "reporter": "Rafael Balago",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "InfoMoney Brazil",
+      "reporter": "André Jankavski",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "InfoMoney Brazil",
+      "reporter": "Matheus Spiess",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "O Globo Brazil",
+      "reporter": "Editorial or Mariana Barbosa",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Valor Econômico Brazil",
+      "reporter": "Beatriz Olivon",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "El Economista Mexico",
+      "reporter": "Fernando Gutiérrez",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "El Financiero Mexico",
+      "reporter": "Jeanette Leyva",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "La Jornada Mexico",
+      "reporter": "Alejandro Alegría",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reforma Mexico",
+      "reporter": "Editorial or Verónica Gascón",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Tabasco HOY Mexico",
+      "reporter": "Julio Astillero",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Bitcoinist:NewsBTC",
+      "reporter": "Ronaldo Marquez",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cadena Noticias Venezuela",
+      "reporter": "Carlos Marquez",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CriptoNoticias Panama",
+      "reporter": "Jesús Herrera",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "CriptoNoticias Panama",
+      "reporter": "Miguel Ángel Arroyo",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Diario Bitcoin",
+      "reporter": "Editor",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Diario El Salvador",
+      "reporter": "Kevin Riviera",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "La Nación Costa Rica",
+      "reporter": "Óscar Rodríguez",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto Slate",
+      "reporter": "Gino Matos (Brazil based)",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Patricia Kowsman (Brazilian reporter that covers Brazil news occassionaly)",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "Aaron Stanley (Brazil based)",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Crypto Facil",
+      "reporter": "Luciano Rocha",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Be In Crypto Brazil",
+      "reporter": "Lucas Espindola",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "ZyCrypto",
+      "reporter": "Jose Lanz",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Portla do Bitcon",
+      "reporter": "Saori Honorato",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointelegraph Brasil",
+      "reporter": "Cássio Gusson",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Cointelegraph US, Brazil",
+      "reporter": "Marcel (Maca) Pechman",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Bernardo Caram",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Marcela Ayres",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Kylie Madry",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Pedro Fonseca",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Portal do Bitcoin",
+      "reporter": "Wagner Riggs",
+      "beat": "Regional",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist.xlsx"
+    },
+    {
+      "publication": "Forbes",
+      "reporter": "Jason Brett",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 55151804,
+      "notes": "EXCLUSIVE",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Fortune",
+      "reporter": "Jack Kubinec",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 22013771,
+      "notes": "EXCLUSIVE",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bankless",
+      "reporter": "Jack Inabinet",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Be In Crypto",
+      "reporter": "Bradley Peak",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Be In Crypto",
+      "reporter": "Dmitriy Maiorov",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Be In Crypto",
+      "reporter": "Kamina Bashir",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Benzinga",
+      "reporter": "Aniket Verma",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1987964,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bitcoin Magazine",
+      "reporter": "Micah Zimmermann",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 242289,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bitcoin News",
+      "reporter": "Jamie Redman",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 392413,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bitcoin News",
+      "reporter": "Kevin Helms",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 392413,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CNBC Crypto World",
+      "reporter": "Talia Kaplan",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "Sam Reynolds",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CoinDesk",
+      "reporter": "Nikhilesh De",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 2065117,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CoinGape",
+      "reporter": "Boluwatife Adeyemi",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 223640,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Cointelegraph",
+      "reporter": "Turner Wright",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 342269,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Cointelegraph",
+      "reporter": "Sam Bourgi",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 342269,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Crowdfund Insider",
+      "reporter": "Omar Faridi",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 41952,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Crypto Briefing",
+      "reporter": "Estefano Gomez",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Crypto.News",
+      "reporter": "Andrew Folkler",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 180250,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "Logan Hitchcock",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "Stephen Graves",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Decrypt",
+      "reporter": "Sander Lutz",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "uvm": 607035,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "DL News",
+      "reporter": "Lance Datskoluo",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 170522,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Finance Feeds",
+      "reporter": "Abdelaziz Fathi",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Finance Feeds",
+      "reporter": "Damilola Esebame",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Finance Magnates",
+      "reporter": "Adonis Adoni",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 191943,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Invezz",
+      "reporter": "Diya Poddar",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 300643,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Block",
+      "reporter": "Sarah Wynn",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1016881,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Block",
+      "reporter": "James Hunt",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1016881,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Defiant",
+      "reporter": "Camila",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 94090,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Street",
+      "reporter": "Anand Sinha",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Street",
+      "reporter": "Pooja Rajkumari",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Vicky G Huang",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "SandMark",
+      "reporter": "Jona Jaupi",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "uvm": 23851,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Stockwits",
+      "reporter": "Prabhjote Gill",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 1243214,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Unchained",
+      "reporter": "Laura Shin",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "PYMNTS",
+      "reporter": "Editorial",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "uvm": 435809,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Paypers",
+      "reporter": "Mirela",
+      "beat": "Crypto",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Associated Press",
+      "reporter": "Bernard Condon",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Associated Press",
+      "reporter": "Wyatte Grantham-Philips",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bloomberg",
+      "reporter": "Denitsa Tsekova",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Bloomberg",
+      "reporter": "Justina Lee",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "tech correspondent, focus on prediction markets",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Samuel O'Brient",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CNBC",
+      "reporter": "Davis Giangulio",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 35676220,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "CNN",
+      "reporter": "Marshall Cohen",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 98592217,
+      "notes": "prediction markets, elections",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Early Brief",
+      "reporter": "Dan Merica",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "newsletter",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Financial Times",
+      "reporter": "Stephanie Stacey",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 14698051,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Futurism",
+      "reporter": "Joe Wilkins",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Investopedia",
+      "reporter": "Crystal Kim",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "uvm": 8156524,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Investor's Business Daily",
+      "reporter": "Harrison Miller",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Markets Media",
+      "reporter": "Shanny Basar",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "uvm": 28592,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Marketplace",
+      "reporter": "Meghan McCarty Carino",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Market Watch",
+      "reporter": "Bill Peters",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Money",
+      "reporter": "Pete Grieve",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Money",
+      "reporter": "Julia Glum",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Newsweek",
+      "reporter": "Tyler Everett",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "New York Post",
+      "reporter": "Lydia Moynihan",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "NPR",
+      "reporter": "Bobby Allen",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Pritam Biswas",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Seeking Alpha",
+      "reporter": "Preeti Singh",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "uvm": 4865474,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Guardian",
+      "reporter": "Anna Betts",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Hill",
+      "reporter": "Julia Shapero",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Independent UK",
+      "reporter": "J.R. Duren",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "uvm": 31648119,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Information",
+      "reporter": "Ken Brown",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Information",
+      "reporter": "Yueqi Yang",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Motley Fool",
+      "reporter": "Dominic Basulto",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The New York Times",
+      "reporter": "Hurubie Meko",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "uvm": 146388434,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Toronto Star",
+      "reporter": "Gillian Steward",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "AI & prediction markets",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Washington Post",
+      "reporter": "Matthew Choi",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WIRED Magazine",
+      "reporter": "Kate Knibbs",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Kevin T. Dugan",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Michael S. Selig",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Krystal Hur",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "POLITICO",
+      "reporter": "Milena Wälde",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "uvm": 18055575,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "NPR",
+      "reporter": "Alana Wise",
+      "beat": "Mainstream",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Associated Press",
+      "reporter": "James Robson",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Business Insider",
+      "reporter": "Lauren Edmonds",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Inside World Football",
+      "reporter": "Samindra Kunti",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "NBC News",
+      "reporter": "Jesse Kirsch",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Rohith Nair",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Reuters",
+      "reporter": "Frank Pingue",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "uvm": 51234123,
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Sportico",
+      "reporter": "Jacob Feldman",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Sports Business Journal",
+      "reporter": "Katherine Acquavella",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Sports Business Journal",
+      "reporter": "Ethan Joyce",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "Sports Business Journal",
+      "reporter": "Alex Silverman",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Athletic",
+      "reporter": "Henry Bushnell",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Athletic",
+      "reporter": "Matt Slater",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Guardian",
+      "reporter": "Jonathan Wilson",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Hustle",
+      "reporter": "Alex Mayyasi",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Indpendent",
+      "reporter": "Jamie Gardner",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Inquirer",
+      "reporter": "Kerith Gabriel",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Ticketing Business",
+      "reporter": "Owen Lloyd",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "USA Today",
+      "reporter": "Safid Deen",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "WSJ",
+      "reporter": "Jason Gay",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    },
+    {
+      "publication": "The Guardian",
+      "reporter": "Matt Hughes",
+      "beat": "Sport",
+      "region": "Global",
+      "tier": "",
+      "uvm": "",
+      "notes": "",
+      "source": "Medialist2.xlsx"
+    }
+  ]
+}
