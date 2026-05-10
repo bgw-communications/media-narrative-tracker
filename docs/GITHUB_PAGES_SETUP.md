@@ -1,58 +1,115 @@
-# GitHub Pages Setup
+# GitHub Pages Setup Guide
 
-## 1. Upload files
+Use this guide to deploy the Media Narrative Monitor as a GitHub Pages dashboard.
 
-Upload all files in this folder to the root of your GitHub repo.
+---
 
-Recommended repo name:
+## 1. Upload files to your repo
+
+Upload the full project folder into the root of your repository.
+
+The root should include:
 
 ```text
-media-narrative-monitor
+index.html
+style.css
+script.js
+data/
+scripts/
+docs/
+.github/
 ```
 
+Do not place the files inside an extra nested folder, otherwise GitHub Pages may not find `index.html`.
+
+---
+
 ## 2. Enable GitHub Pages
+
+In your GitHub repo:
+
+1. Go to **Settings**
+2. Click **Pages** in the left sidebar
+3. Under **Build and deployment**, set:
+   - Source: **GitHub Actions**
+4. Save the setting
+
+---
+
+## 3. Enable GitHub Actions permissions
+
+The daily update workflow needs permission to commit the updated article data back to the repo.
 
 Go to:
 
 ```text
-Settings → Pages
+Settings → Actions → General → Workflow permissions
 ```
 
-Under **Build and deployment**, select:
+Select:
 
 ```text
-Source: GitHub Actions
+Read and write permissions
 ```
 
-## 3. Confirm workflow
+Then save.
 
-The repo includes:
+---
+
+## 4. Run the first update manually
+
+Go to:
 
 ```text
-.github/workflows/pages.yml
+Actions → Daily media narrative update → Run workflow
 ```
 
-After you push to `main`, GitHub Actions will publish the static dashboard.
+This will trigger the first article fetch and dashboard deployment.
 
-## 4. Dashboard URL
+---
 
-The URL will usually be:
+## 5. Open the dashboard
+
+After the workflow finishes, open:
 
 ```text
-https://YOUR_ORG.github.io/YOUR_REPO/
+https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
 ```
 
-For example:
+If your repo is under an organization, use:
 
 ```text
-https://bitgetpr.github.io/media-narrative-monitor/
+https://ORG_NAME.github.io/REPO_NAME/
 ```
 
-## 5. Daily update workflow
+---
 
-For each business day:
+## 6. Recommended repo settings
 
-1. Add article rows to `data/articles.csv`.
-2. Add a short summary file under `daily-updates/YYYY-MM-DD.md`.
-3. Commit to `main`.
-4. The dashboard will refresh after deployment.
+Recommended setup:
+
+- Repo visibility: Private or internal, unless the dashboard is intended to be public
+- GitHub Pages source: GitHub Actions
+- Workflow permissions: Read and write
+- Branch: `main`
+
+---
+
+## 7. Update frequency
+
+The workflow schedule is defined in:
+
+```text
+.github/workflows/daily-news.yml
+```
+
+Default schedule:
+
+```yaml
+schedule:
+  - cron: "0 1 * * *"
+```
+
+This runs once per day at 01:00 UTC.
+
+You can adjust the cron time based on your preferred monitoring window.
