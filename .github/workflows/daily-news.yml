@@ -1,46 +1,9 @@
-name: Daily media narrative update
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * *"
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas
-
-      - name: Fetch daily media coverage
-        run: |
-          python scripts/fetch_daily_news.py
-
-      - name: Commit updated article data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update daily media narrative data"
-          file_pattern: data/articles.json
-
   deploy:
     needs: update-news
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -55,4 +18,5 @@ jobs:
           path: .
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
