@@ -1,160 +1,113 @@
-const state = { articles: [], targets: [], taxonomy: {}, filtered: [] };
+let mediaData = { media: [], categories: [] };
+let articles = [];
 
-async function loadJson(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(`Failed to load ${path}`);
-  return res.json();
-}
+const narratives = [
+  'Stablecoins as payment infrastructure',
+  'Wallets as financial interface',
+  'Real-world crypto spending',
+  'Tokenized assets / RWA access',
+  'Prediction markets and information finance',
+  'Self-custody and wallet security',
+  'Regulation and compliance',
+  'Institutional adoption',
+  'Emerging markets and financial access',
+  'Competitor / product coverage'
+];
 
-async function loadText(path) {
-  const res = await fetch(path);
-  if (!res.ok) throw new Error(`Failed to load ${path}`);
-  return res.text();
-}
-
-function parseCsv(text) {
-  const rows = [];
-  let row = [], cell = '', inQuotes = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i], n = text[i + 1];
-    if (c === '"' && inQuotes && n === '"') { cell += '"'; i++; }
-    else if (c === '"') inQuotes = !inQuotes;
-    else if (c === ',' && !inQuotes) { row.push(cell); cell = ''; }
-    else if ((c === '\n' || c === '\r') && !inQuotes) {
-      if (c === '\r' && n === '\n') i++;
-      row.push(cell); cell = '';
-      if (row.some(v => v.trim() !== '')) rows.push(row);
-      row = [];
-    } else cell += c;
-  }
-  if (cell || row.length) { row.push(cell); rows.push(row); }
-  const headers = rows.shift().map(h => h.trim());
-  return rows.map(r => Object.fromEntries(headers.map((h, i) => [h, (r[i] || '').trim()])));
-}
-
-function countBy(items, key) {
-  return items.reduce((acc, item) => {
-    const value = item[key] || 'Unknown';
-    acc[value] = (acc[value] || 0) + 1;
-    return acc;
-  }, {});
-}
-
-function renderBarList(id, counts, limit = 10) {
-  const el = document.getElementById(id);
-  const entries = Object.entries(counts).sort((a,b) => b[1] - a[1]).slice(0, limit);
-  const max = Math.max(...entries.map(e => e[1]), 1);
-  el.innerHTML = entries.length ? entries.map(([label, value]) => `
-    <div class="bar-row">
-      <div class="bar-label" title="${escapeHtml(label)}">${escapeHtml(label)}</div>
-      <div class="bar-track"><div class="bar-fill" style="width:${Math.max(6, value / max * 100)}%"></div></div>
-      <div class="bar-value">${value}</div>
-    </div>`).join('') : '<p class="empty">No data yet.</p>';
-}
-
-function escapeHtml(str = '') {
-  return String(str).replace(/[&<>'"]/g, tag => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[tag]));
-}
-
-function renderFilters() {
-  const narrativeSelect = document.getElementById('narrativeFilter');
-  const beatSelect = document.getElementById('beatFilter');
-  const narratives = [...new Set([...state.taxonomy.narratives || [], ...state.articles.map(a => a.narrative).filter(Boolean)])];
-  const beats = [...new Set([...state.taxonomy.beats || [], ...state.articles.map(a => a.beat).filter(Boolean)])];
-  narrativeSelect.innerHTML = '<option value="">All narratives</option>' + narratives.map(v => `<option>${escapeHtml(v)}</option>`).join('');
-  beatSelect.innerHTML = '<option value="">All beats</option>' + beats.map(v => `<option>${escapeHtml(v)}</option>`).join('');
-}
-
-function applyFilters() {
-  const q = document.getElementById('searchInput').value.toLowerCase();
-  const narrative = document.getElementById('narrativeFilter').value;
-  const beat = document.getElementById('beatFilter').value;
-  const relevance = document.getElementById('relevanceFilter').value;
-  state.filtered = state.articles.filter(a => {
-    const blob = Object.values(a).join(' ').toLowerCase();
-    return (!q || blob.includes(q)) && (!narrative || a.narrative === narrative) && (!beat || a.beat === beat) && (!relevance || a.relevance === relevance);
-  });
-  renderAll();
-}
-
-function renderKpis() {
-  document.getElementById('articleCount').textContent = state.filtered.length;
-  document.getElementById('journalistCount').textContent = new Set(state.targets.filter(t => t.reporter).map(t => `${t.publication}|${t.reporter}`)).size;
-  document.getElementById('publicationCount').textContent = new Set(state.targets.map(t => t.publication).filter(Boolean)).size;
-  document.getElementById('highRelevanceCount').textContent = state.filtered.filter(a => a.relevance === 'High').length;
-}
-
-function renderJournalistMap() {
-  const counts = countBy(state.targets.filter(t => t.reporter), 'beat');
-  const entries = Object.entries(counts).sort((a,b) => b[1] - a[1]);
-  document.getElementById('journalistMap').innerHTML = entries.map(([beat, count]) => `<span class="tag">${escapeHtml(beat)} · ${count}</span>`).join('');
-}
-
-function renderActionQueue() {
-  const actions = state.filtered.filter(a => ['Pitch','Commentary','Follow up'].includes(a.action)).slice(0, 8);
-  document.getElementById('actionQueue').innerHTML = actions.length ? actions.map(a => `
-    <div class="action-item">
-      <strong>${escapeHtml(a.action)}: ${escapeHtml(a.publication)}${a.journalist ? ' / ' + escapeHtml(a.journalist) : ''}</strong>
-      <div>${escapeHtml(a.title)}</div>
-      <div class="action-meta">${escapeHtml(a.narrative)} · ${escapeHtml(a.relevance)}</div>
-    </div>`).join('') : '<p class="empty">No action items in current filter.</p>';
-}
-
-function renderCoverageTable() {
-  const body = document.querySelector('#coverageTable tbody');
-  body.innerHTML = state.filtered.sort((a,b) => (b.date || '').localeCompare(a.date || '')).map(a => `
-    <tr>
-      <td>${escapeHtml(a.date)}</td>
-      <td>${escapeHtml(a.publication)}</td>
-      <td>${escapeHtml(a.journalist)}</td>
-      <td>${a.url ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noreferrer">${escapeHtml(a.title)}</a>` : escapeHtml(a.title)}</td>
-      <td>${escapeHtml(a.narrative)}</td>
-      <td><span class="badge ${escapeHtml(a.sentiment)}">${escapeHtml(a.sentiment)}</span></td>
-      <td><span class="badge ${escapeHtml(a.relevance)}">${escapeHtml(a.relevance)}</span></td>
-      <td>${escapeHtml(a.action)}</td>
-    </tr>`).join('');
-}
-
-function renderTargetTable() {
-  const q = document.getElementById('searchInput').value.toLowerCase();
-  const targets = state.targets.filter(t => !q || Object.values(t).join(' ').toLowerCase().includes(q)).slice(0, 400);
-  const body = document.querySelector('#targetTable tbody');
-  body.innerHTML = targets.map(t => `
-    <tr>
-      <td>${escapeHtml(t.publication)}</td>
-      <td>${escapeHtml(t.reporter)}</td>
-      <td>${escapeHtml(t.beat)}</td>
-      <td>${escapeHtml(t.region)}</td>
-      <td>${escapeHtml(t.tier)}</td>
-      <td>${escapeHtml(t.notes)}</td>
-    </tr>`).join('');
-}
-
-function renderAll() {
-  renderKpis();
-  renderBarList('narrativeChart', countBy(state.filtered, 'narrative'));
-  renderBarList('beatChart', countBy(state.filtered, 'beat'));
-  renderJournalistMap();
-  renderActionQueue();
-  renderCoverageTable();
-  renderTargetTable();
-}
-
-async function init() {
-  const [targetData, taxonomy, csv] = await Promise.all([
-    loadJson('data/media_targets.json'),
-    loadJson('data/taxonomy.json'),
-    loadText('data/articles.csv')
+async function init(){
+  const [media, csv] = await Promise.all([
+    fetch('data/media_outlets.json').then(r=>r.json()),
+    fetch('data/articles.csv').then(r=>r.text())
   ]);
-  state.targets = targetData.targets || [];
-  state.taxonomy = taxonomy;
-  state.articles = parseCsv(csv);
-  state.filtered = state.articles;
-  renderFilters();
-  ['searchInput','narrativeFilter','beatFilter','relevanceFilter'].forEach(id => document.getElementById(id).addEventListener('input', applyFilters));
-  renderAll();
+  mediaData = media;
+  articles = parseCSV(csv).filter(r => r.title && !r.title.startsWith('Example:'));
+  setupFilters();
+  render();
 }
 
-init().catch(err => {
-  document.body.innerHTML = `<main><div class="card" style="padding:24px"><h1>Could not load dashboard data</h1><p>${escapeHtml(err.message)}</p><p>Run this via GitHub Pages or a local web server, not by opening index.html directly.</p></div></main>`;
-});
+function parseCSV(text){
+  const rows=[]; let row=[], cell='', q=false;
+  for(let i=0;i<text.length;i++){
+    const c=text[i], n=text[i+1];
+    if(c==='"' && q && n==='"'){cell+='"';i++;}
+    else if(c==='"'){q=!q;}
+    else if(c===',' && !q){row.push(cell);cell='';}
+    else if((c==='\n'||c==='\r') && !q){ if(cell||row.length){row.push(cell);rows.push(row);row=[];cell='';} if(c==='\r'&&n==='\n')i++; }
+    else cell+=c;
+  }
+  if(cell||row.length){row.push(cell);rows.push(row)}
+  const headers=rows.shift()||[];
+  return rows.map(r=>Object.fromEntries(headers.map((h,i)=>[h.trim(),(r[i]||'').trim()])));
+}
+
+function setupFilters(){
+  const cat=document.getElementById('categoryFilter');
+  mediaData.categories.forEach(c=>cat.add(new Option(c,c)));
+  const nar=document.getElementById('narrativeFilter');
+  narratives.forEach(n=>nar.add(new Option(n,n)));
+  ['search','categoryFilter','narrativeFilter','dateFilter'].forEach(id=>document.getElementById(id).addEventListener('input', render));
+}
+
+function filteredArticles(){
+  const q=document.getElementById('search').value.toLowerCase();
+  const cat=document.getElementById('categoryFilter').value;
+  const nar=document.getElementById('narrativeFilter').value;
+  const days=document.getElementById('dateFilter').value;
+  const cutoff = days==='all' ? null : new Date(Date.now() - Number(days)*86400000);
+  return articles.filter(a=>{
+    const hay=[a.publication,a.title,a.summary,a.primary_narrative,a.secondary_narrative,a.companies_mentioned].join(' ').toLowerCase();
+    const dateOk=!cutoff || (a.date && new Date(a.date)>=cutoff);
+    return (!q || hay.includes(q)) && (!cat || a.category===cat) && (!nar || a.primary_narrative===nar || a.secondary_narrative===nar) && dateOk;
+  }).sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+}
+
+function render(){
+  const fa=filteredArticles();
+  document.getElementById('lastUpdated').textContent = mediaData.generated_at || '—';
+  document.getElementById('kpiMedia').textContent = mediaData.count || mediaData.media.length;
+  document.getElementById('kpiArticles').textContent = fa.length;
+  document.getElementById('kpiNarratives').textContent = new Set(fa.map(a=>a.primary_narrative).filter(Boolean)).size;
+  document.getElementById('kpiActions').textContent = fa.filter(a=>['Pitch','Respond','Commentary','Follow up'].includes(a.action)).length;
+  renderCategoryMap(); renderNarratives(fa); renderArticles(fa); renderAnalysis(fa); renderMediaTable();
+}
+
+function renderCategoryMap(){
+  const counts={}; mediaData.media.forEach(m=>counts[m.category]=(counts[m.category]||0)+1);
+  const max=Math.max(1,...Object.values(counts));
+  document.getElementById('categoryMap').innerHTML = Object.entries(counts).sort((a,b)=>b[1]-a[1]).map(([k,v])=>bar(k,v,max)).join('');
+}
+function renderNarratives(rows){
+  const counts={}; rows.forEach(a=>{ if(a.primary_narrative) counts[a.primary_narrative]=(counts[a.primary_narrative]||0)+1; });
+  const entries=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  const max=Math.max(1,...entries.map(e=>e[1]));
+  document.getElementById('narrativeBars').innerHTML = entries.length ? entries.map(([k,v])=>bar(k,v,max)).join('') : '<div class="empty">Add daily articles in data/articles.csv to see narrative trends.</div>';
+}
+function bar(label,val,max){ return `<div class="bar-row"><span>${label}</span><div class="bar"><div class="fill" style="width:${Math.max(4,val/max*100)}%"></div></div><b>${val}</b></div>`; }
+
+function renderArticles(rows){
+  document.getElementById('articleList').innerHTML = rows.length ? rows.slice(0,20).map(a=>`<article class="article"><h3><a href="${a.url}" target="_blank" rel="noreferrer">${a.title}</a></h3><div class="meta">${a.date} · ${a.publication} · ${a.category}</div><span class="pill">${a.primary_narrative||'Unclassified'}</span><span class="pill ${(a.sentiment||'').toLowerCase()}">${a.sentiment||'Neutral'}</span><p>${a.summary||''}</p><small><b>PR implication:</b> ${a.pr_implication||'—'}</small></article>`).join('') : '<div class="empty">No article rows match the current filters.</div>';
+}
+
+function renderAnalysis(rows){
+  const grouped={};
+  rows.forEach(a=>{
+    const key=a.publication || a.category || 'Unknown';
+    grouped[key]=grouped[key]||{count:0,narr:{},cat:a.category,action:0};
+    grouped[key].count++;
+    if(a.primary_narrative) grouped[key].narr[a.primary_narrative]=(grouped[key].narr[a.primary_narrative]||0)+1;
+    if(['Pitch','Respond','Commentary','Follow up'].includes(a.action)) grouped[key].action++;
+  });
+  const rowsHtml=Object.entries(grouped).sort((a,b)=>b[1].count-a[1].count).slice(0,30).map(([pub,d])=>{
+    const top=Object.entries(d.narr).sort((a,b)=>b[1]-a[1])[0]?.[0] || '—';
+    return `<tr><td>${pub}</td><td>${d.cat||'—'}</td><td>${d.count}</td><td>${top}</td><td>${d.action}</td></tr>`;
+  }).join('');
+  document.getElementById('analysisTable').innerHTML = rowsHtml ? `<table><thead><tr><th>Media</th><th>Category</th><th>Articles</th><th>Top narrative</th><th>PR actions</th></tr></thead><tbody>${rowsHtml}</tbody></table>` : '<div class="empty">Add articles to generate outlet-level narrative analysis.</div>';
+}
+
+function renderMediaTable(){
+  const q=document.getElementById('search').value.toLowerCase(); const cat=document.getElementById('categoryFilter').value;
+  const rows=mediaData.media.filter(m=>(!cat||m.category===cat)&&(!q||[m.publication,m.category,m.region,m.tier,(m.beats||[]).join(' ')].join(' ').toLowerCase().includes(q))).slice(0,300);
+  document.getElementById('mediaTable').innerHTML = `<table><thead><tr><th>Publication</th><th>Category</th><th>Region</th><th>Tier</th><th>Beat / Notes</th></tr></thead><tbody>${rows.map(m=>`<tr><td>${m.publication}</td><td>${m.category}</td><td>${m.region||'—'}</td><td>${m.tier||'—'}</td><td>${(m.beats||[]).join('; ')||'—'}</td></tr>`).join('')}</tbody></table>`;
+}
+
+init().catch(err=>{document.body.innerHTML='<pre>'+err.stack+'</pre>';});

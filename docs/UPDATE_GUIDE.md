@@ -1,65 +1,65 @@
-# Update Guide
+# Daily Update Guide
 
-## 1. Add new coverage
+This dashboard is designed for media-level monitoring, not journalist-level CRM.
 
-Open `data/articles.csv` and add one row per article.
+## What to update daily
 
-Example:
+### 1. `data/articles.csv`
 
-```csv
-date,publication,journalist,title,url,beat,narrative,sentiment,companies,relevance,action,summary
-2026-05-10,CoinDesk,Helene Braun,Wallets move deeper into payments,https://example.com,Wallets,Wallets as financial interface,Neutral,"MetaMask; Bitget Wallet",High,Pitch,"Useful for wallet-as-interface narrative."
+Add one row per article. Minimum required fields:
+
+- `date`
+- `publication`
+- `category`
+- `title`
+- `url`
+- `summary`
+- `primary_narrative`
+- `sentiment`
+- `pr_implication`
+- `action`
+- `status`
+
+### 2. `daily-updates/YYYY-MM-DD.md`
+
+Use this for a short editorial readout that can be shared internally.
+
+Recommended format:
+
+```markdown
+# Daily Media Narrative Update — YYYY-MM-DD
+
+## Executive Takeaways
+- 
+- 
+- 
+
+## Notable Articles
+| Media | Category | Headline | Narrative | Sentiment | PR implication |
+|---|---|---|---|---|---|
+
+## Narrative Movement
+- Rising:
+- Stable:
+- Declining:
+
+## Recommended Actions
+- 
 ```
 
-## 2. Keep narratives consistent
+## Suggested daily monitoring questions
 
-Use the approved narratives in `data/taxonomy.json` where possible:
+- Which narratives are gaining media attention today?
+- Are mainstream outlets and crypto-native outlets framing the same topic differently?
+- Which publications are repeatedly covering stablecoins, payments, wallets, RWAs, prediction markets, or regulation?
+- Which stories create openings for commentary, data-led pitching, or op-eds?
+- Are competitors being mentioned more often in specific media categories?
 
-- Stablecoins as payment infrastructure
-- Wallets as financial interface
-- Real-world crypto spending: card, QR, bank transfer
-- Tokenized assets and market access
-- Prediction markets and information finance
-- Self-custody, security and user risk
-- Regulation and compliance
-- Institutional adoption and enterprise infrastructure
-- Emerging markets and financial access
-- Competitor/product coverage
+## Weekly analysis questions
 
-## 3. Set PR action clearly
+Use the dashboard every Friday to answer:
 
-Use one of the following values:
-
-- `Pitch`: the article creates an opening for proactive outreach
-- `Commentary`: the story is timely enough for executive comment
-- `Follow up`: the reporter should receive more context or data
-- `Monitor`: relevant, but no immediate action
-- `No action`: archive only
-
-## 4. Weekly operating rhythm
-
-Recommended cadence:
-
-- Daily: add Tier 1 / highly relevant articles
-- Twice weekly: add competitor mentions and emerging trend pieces
-- Weekly: review the action queue and narrative momentum
-- Monthly: clean taxonomy and merge duplicate narratives
-
-## 5. How to update the journalist database
-
-The journalist database is stored in `data/media_targets.json`. For simple edits, update the JSON directly. For larger updates, replace the source spreadsheet and regenerate the JSON using a short script or manual conversion.
-
-Required fields:
-
-```json
-{
-  "publication": "CoinDesk",
-  "reporter": "Helene Braun",
-  "beat": "Crypto",
-  "region": "Global",
-  "tier": "Trade Outlet Tier 2",
-  "uvm": "2065117",
-  "notes": "",
-  "source": "Medialist.xlsx"
-}
-```
+1. Which narrative generated the most coverage this week?
+2. Which media category drove the narrative: mainstream, crypto trade, fintech, regional, or policy?
+3. Which outlets are becoming more relevant for our priority themes?
+4. What PR action should follow: pitch, commentary, report angle, op-ed, or no action?

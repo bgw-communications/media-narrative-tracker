@@ -1,37 +1,63 @@
 # Data Schema
 
-## `data/articles.csv`
+## `data/media_outlets.json`
 
-| Field | Required | Description | Example |
-|---|---:|---|---|
-| date | Yes | Publication date in `YYYY-MM-DD` format | `2026-05-10` |
-| publication | Yes | Media outlet | `Bloomberg` |
-| journalist | No | Reporter name | `Emily Nicolle` |
-| title | Yes | Article headline | `Stablecoins move into payments` |
-| url | No | Article URL | `https://...` |
-| beat | Yes | Specific coverage topic | `Stablecoins` |
-| narrative | Yes | Broader storyline | `Stablecoins as payment infrastructure` |
-| sentiment | Yes | Coverage tone | `Positive`, `Neutral`, `Critical` |
-| companies | No | Companies mentioned, separated by semicolon | `Circle; Tether; Bitget Wallet` |
-| relevance | Yes | PR relevance | `High`, `Medium`, `Low` |
-| action | Yes | Recommended PR action | `Pitch`, `Commentary`, `Follow up`, `Monitor`, `No action` |
-| summary | No | Short internal note | `Useful for wallet narrative.` |
+Media-only database generated from the uploaded media lists. Individual journalist names are removed.
 
-## `data/media_targets.json`
-
-Generated from the uploaded media and journalist lists.
+Fields:
 
 | Field | Description |
 |---|---|
-| publication | Media outlet |
-| reporter | Reporter name; blank if the row is a publication-level target |
-| beat | Main beat or category |
-| region | Region or source section |
-| tier | Publication tier, when available |
-| uvm | Monthly traffic/UVM, when available |
-| notes | Extra notes such as exclusive target |
-| source | Original spreadsheet source |
+| `publication` | Media outlet name |
+| `category` | Media segment classification |
+| `region` | Primary region, if available |
+| `tier` | Priority or reach tier, if available |
+| `beats` | General topics associated with the outlet |
+| `uvm` | Monthly traffic / UVM, if available |
+| `sources` | Original source file(s) |
 
-## `data/taxonomy.json`
+## `data/articles.csv`
 
-Controls dropdown categories for narratives and beats. Update this file when adding a new recurring narrative.
+Daily coverage tracking input.
+
+| Field | Description |
+|---|---|
+| `date` | Publication date, `YYYY-MM-DD` |
+| `publication` | Media outlet name |
+| `category` | Media category |
+| `title` | Article headline |
+| `url` | Article URL |
+| `summary` | 1–3 sentence summary |
+| `primary_narrative` | Main narrative category |
+| `secondary_narrative` | Optional secondary narrative |
+| `sentiment` | Positive / Neutral / Critical |
+| `companies_mentioned` | Companies or competitors mentioned |
+| `data_points` | Data points cited or implied |
+| `pr_implication` | Why this matters for PR |
+| `action` | Pitch / Respond / Commentary / Follow up / Monitor / No action |
+| `owner` | Internal owner |
+| `status` | New / Reviewed / Actioned / Archived |
+
+## Recommended media categories
+
+- Mainstream / Business
+- Crypto Trade / Market
+- Fintech / Payments
+- Institutional / Finance
+- Regional / Emerging Markets
+- Policy / Regulation
+- Sports / Prediction Markets
+- Other / Watchlist
+
+## Recommended narratives
+
+- Stablecoins as payment infrastructure
+- Wallets as financial interface
+- Real-world crypto spending
+- Tokenized assets / RWA access
+- Prediction markets and information finance
+- Self-custody and wallet security
+- Regulation and compliance
+- Institutional adoption
+- Emerging markets and financial access
+- Competitor / product coverage

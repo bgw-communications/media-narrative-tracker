@@ -1,68 +1,67 @@
-# Media Narrative Tracker
+# Media Narrative Monitor
 
-A lightweight GitHub Pages dashboard for tracking mainstream and crypto media narratives, journalist focus areas, and PR opportunities.
+A lightweight GitHub Pages dashboard for tracking **media-level narratives** across priority publications. This version does **not** track individual journalists. It focuses on:
 
-## What this dashboard shows
+- Which media categories are covering which themes
+- Daily news updates from tracked outlets
+- Narrative trends by category and publication
+- PR implications and recommended actions
 
-- Which narratives are appearing most often across monitored coverage
-- Which beats are gaining momentum: stablecoins, payments, wallets, RWAs, prediction markets, security, regulation, enterprise infrastructure, emerging markets
-- Which journalists and publications are mapped to each focus area
-- Which articles should trigger PR action: pitch, commentary, follow-up, or monitoring
-- A searchable media target database generated from the uploaded publication and journalist lists
+## Dashboard views
 
-## Repository structure
+1. **Media Category Map** — outlet coverage by category.
+2. **Narrative Trend** — article volume by narrative.
+3. **Daily News Updates** — latest monitored articles and PR implications.
+4. **Media Narrative Analysis** — publication/category-level view of dominant narratives.
+5. **Tracked Media Database** — deduped media-only target list.
+
+## Folder structure
 
 ```text
 .
-├── index.html                  # Dashboard page
-├── style.css                   # Dashboard styling
-├── app.js                      # Dashboard logic
+├── index.html
+├── style.css
+├── app.js
 ├── data/
-│   ├── articles.csv            # Weekly coverage tracker; edit this file regularly
-│   ├── media_targets.json      # Generated media and journalist database
-│   └── taxonomy.json           # Narrative, beat and action categories
+│   ├── media_outlets.json      # media-only database, categorized
+│   ├── articles.csv            # daily article tracking input
+│   └── taxonomy.json           # narrative taxonomy
+├── daily-updates/
+│   └── YYYY-MM-DD.md           # daily editorial summary template
 ├── docs/
-│   ├── UPDATE_GUIDE.md         # How to maintain the tracker
-│   ├── GITHUB_PAGES_SETUP.md   # Deployment instructions
-│   └── DATA_SCHEMA.md          # Field definitions
-└── .github/workflows/pages.yml # Optional GitHub Pages deployment workflow
+│   ├── GITHUB_PAGES_SETUP.md
+│   ├── UPDATE_GUIDE.md
+│   └── DATA_SCHEMA.md
+└── .github/workflows/pages.yml
 ```
 
 ## Recommended workflow
 
-1. Add new monitored coverage to `data/articles.csv`.
-2. Commit the change to GitHub.
-3. GitHub Pages refreshes the dashboard automatically.
-4. Review the dashboard weekly to identify:
-   - rising narratives
-   - journalists to pitch
-   - competitor coverage gaps
-   - commentary opportunities
+1. Add daily coverage into `data/articles.csv`.
+2. Write a short daily narrative summary in `daily-updates/YYYY-MM-DD.md`.
+3. Commit changes to `main`.
+4. GitHub Actions will publish the dashboard automatically.
 
-## Core data fields
+## Media categories
 
-The dashboard is powered mainly by `data/articles.csv`:
+- Mainstream / Business
+- Crypto Trade / Market
+- Fintech / Payments
+- Institutional / Finance
+- Regional / Emerging Markets
+- Policy / Regulation
+- Sports / Prediction Markets
+- Other / Watchlist
 
-| Field | Description |
-|---|---|
-| date | Publication date, `YYYY-MM-DD` |
-| publication | Media outlet name |
-| journalist | Reporter name, if known |
-| title | Article headline |
-| url | Article link |
-| beat | Topic area, such as Stablecoins, Payments, Wallets, RWA |
-| narrative | The broader story angle |
-| sentiment | Positive, Neutral, or Critical |
-| companies | Companies mentioned |
-| relevance | High, Medium, or Low |
-| action | Pitch, Commentary, Follow up, Monitor, or No action |
-| summary | 1-2 sentence summary of why the article matters |
+## Narrative taxonomy
 
-## Suggested weekly review questions
-
-- Which narratives are increasing in volume?
-- Which journalists are repeatedly covering the same theme?
-- Are competitors being quoted where Bitget Wallet should have a voice?
-- Which stories need a data-backed pitch or executive commentary?
-- Which topics should be turned into a report, op-ed, or media FAQ?
-
+- Stablecoins as payment infrastructure
+- Wallets as financial interface
+- Real-world crypto spending
+- Tokenized assets / RWA access
+- Prediction markets and information finance
+- Self-custody and wallet security
+- Regulation and compliance
+- Institutional adoption
+- Emerging markets and financial access
+- Competitor / product coverage

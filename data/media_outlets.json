@@ -1,0 +1,4140 @@
+{
+  "generated_at": "2026-05-10",
+  "count": 308,
+  "media": [
+    {
+      "publication": "Investing.com",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 33158976
+    },
+    {
+      "publication": "TradingView",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 30347701
+    },
+    {
+      "publication": "Investopedia",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "beats": [
+        "Crypto/Trade",
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 8156524
+    },
+    {
+      "publication": "Seeking Alpha",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "beats": [
+        "Crypto/Trade",
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 4865474
+    },
+    {
+      "publication": "CoinDesk",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 2065117
+    },
+    {
+      "publication": "Benzinga",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 1987964
+    },
+    {
+      "publication": "Stockwits",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 1243214
+    },
+    {
+      "publication": "The Block",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 2 (1M-5M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 1016881
+    },
+    {
+      "publication": "FXStreet",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 977240
+    },
+    {
+      "publication": "Bitcoin.com",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 909782
+    },
+    {
+      "publication": "BeInCrypto",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 671254
+    },
+    {
+      "publication": "TokenPost",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 665746
+    },
+    {
+      "publication": "Decrypt",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 3 (500k - 1M)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 607035
+    },
+    {
+      "publication": "Cryptonews.com",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 475175
+    },
+    {
+      "publication": "CryptoSlate",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 459347
+    },
+    {
+      "publication": "Bitcoin News",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 392413
+    },
+    {
+      "publication": "CryptoRank",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 391562
+    },
+    {
+      "publication": "CoinPedia",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 316418
+    },
+    {
+      "publication": "Invezz",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 300643
+    },
+    {
+      "publication": "CoinStats",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 273055
+    },
+    {
+      "publication": "Bitcoin Magazine",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 242289
+    },
+    {
+      "publication": "CCN",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 220152
+    },
+    {
+      "publication": "CryptoPotato",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 199359
+    },
+    {
+      "publication": "Finance Magnates",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 191943
+    },
+    {
+      "publication": "Cryptoast",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 185636
+    },
+    {
+      "publication": "Crypto.News",
+      "category": "Crypto Trade / Market",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 180250
+    },
+    {
+      "publication": "Crypto.news",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 180250
+    },
+    {
+      "publication": "Yellow",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 170754
+    },
+    {
+      "publication": "DL News",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 170522
+    },
+    {
+      "publication": "99Bitcoins",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 151794
+    },
+    {
+      "publication": "99bitcoins",
+      "category": "Crypto Trade / Market",
+      "region": "EU",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 151794
+    },
+    {
+      "publication": "Blockchain Reporter",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 144696
+    },
+    {
+      "publication": "AMBCrypto",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 132392
+    },
+    {
+      "publication": "Cryptopolitan",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 132155
+    },
+    {
+      "publication": "Bitcoinist",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 108840
+    },
+    {
+      "publication": "FinanceFeeds",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 108077
+    },
+    {
+      "publication": "CoinSpeaker",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 104413
+    },
+    {
+      "publication": "Coinspeaker",
+      "category": "Crypto Trade / Market",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 104413
+    },
+    {
+      "publication": "The Banker",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 103820
+    },
+    {
+      "publication": "CoinCentral",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 103345
+    },
+    {
+      "publication": "The Defiant",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 94090
+    },
+    {
+      "publication": "CryptoPanic",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 64183
+    },
+    {
+      "publication": "CryptoBriefing",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 53216
+    },
+    {
+      "publication": "Daily Coin",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 51286
+    },
+    {
+      "publication": "Coin Edition",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 45496
+    },
+    {
+      "publication": "Brave New Coin",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 44183
+    },
+    {
+      "publication": "Crowdfund Insider",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 41952
+    },
+    {
+      "publication": "Blockworks",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 40669
+    },
+    {
+      "publication": "Bankless Times",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 31669
+    },
+    {
+      "publication": "SandMark",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 23851
+    },
+    {
+      "publication": "Sandmark",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 23851
+    },
+    {
+      "publication": "The Crypto Times",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 23154
+    },
+    {
+      "publication": "Blockster",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 14148
+    },
+    {
+      "publication": "The Cryptonomist",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 7084
+    },
+    {
+      "publication": "Money Check",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 4082
+    },
+    {
+      "publication": "Fintech Review",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3749
+    },
+    {
+      "publication": "CoinTrust",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3168
+    },
+    {
+      "publication": "Cointrust",
+      "category": "Crypto Trade / Market",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 3168
+    },
+    {
+      "publication": "Bankless",
+      "category": "Crypto Trade / Market",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto News",
+      "category": "Crypto Trade / Market",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto Slate",
+      "category": "Crypto Trade / Market",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Unchained",
+      "category": "Crypto Trade / Market",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "PYMNTS",
+      "category": "Fintech / Payments",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade",
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 435809
+    },
+    {
+      "publication": "Finextra",
+      "category": "Fintech / Payments",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 215834
+    },
+    {
+      "publication": "Fintech Finance News",
+      "category": "Fintech / Payments",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 77522
+    },
+    {
+      "publication": "The Paypers",
+      "category": "Fintech / Payments",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 59909
+    },
+    {
+      "publication": "FinTech Futures",
+      "category": "Fintech / Payments",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Fintech Futures",
+      "category": "Fintech / Payments",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Markets Media",
+      "category": "Institutional / Finance",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 5 (Under 100k)",
+      "beats": [
+        "Crypto/Trade",
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 28592
+    },
+    {
+      "publication": "The New York Times",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 146388434
+    },
+    {
+      "publication": "CNN",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 98592217
+    },
+    {
+      "publication": "Forbes",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 55151804
+    },
+    {
+      "publication": "Reuters",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "beats": [
+        "Mainstream",
+        "Regional",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 51234123
+    },
+    {
+      "publication": "CNBC",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 35676220
+    },
+    {
+      "publication": "The Wall Street Journal",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 28985193
+    },
+    {
+      "publication": "The Washington Post",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 22418502
+    },
+    {
+      "publication": "Fortune",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 22013771
+    },
+    {
+      "publication": "Bloomberg News",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 19434866
+    },
+    {
+      "publication": "The Telegraph",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 19302074
+    },
+    {
+      "publication": "POLITICO",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 18055575
+    },
+    {
+      "publication": "Financial Times",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "News Publication Tier 1 (100M - 200M+)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 14698051
+    },
+    {
+      "publication": "CoinMarketCap",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 1 (5M-10M+)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 9326014
+    },
+    {
+      "publication": "Cointelegraph",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 342269
+    },
+    {
+      "publication": "CoinGape",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto",
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 223640
+    },
+    {
+      "publication": "Coinpaper",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "Trade Outlet Tier 4 (100k-500k)",
+      "beats": [
+        "Crypto/Trade"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 188914
+    },
+    {
+      "publication": "AP",
+      "category": "Mainstream / Business",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Associated Press",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "BBC",
+      "category": "Mainstream / Business",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Bloomberg",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Business Insider",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream",
+        "Regional",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CNBC Africa",
+      "category": "Mainstream / Business",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CNBC Crypto World",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CNN Business",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Cointelegraph Brasil",
+      "category": "Mainstream / Business",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Cointelegraph US, Brazil",
+      "category": "Mainstream / Business",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "El Economista Mexico",
+      "category": "Mainstream / Business",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Forbes Advisor Canada",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "POLITICO Europe",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Reuters Africa",
+      "category": "Mainstream / Business",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Reuters Germany",
+      "category": "Mainstream / Business",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "SwissInfo.ch, BBC",
+      "category": "Mainstream / Business",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "TechCrunch",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Financial Times",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Guardian",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Guardian UK",
+      "category": "Mainstream / Business",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Information",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "WSJ",
+      "category": "Mainstream / Business",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Crypto",
+        "Mainstream",
+        "Regional",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Washington Post",
+      "category": "Mainstream / Business",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "MSN",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 2 (50M-100M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 85694671
+    },
+    {
+      "publication": "NDTV",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 44785876
+    },
+    {
+      "publication": "Yahoo Finance",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 43073033
+    },
+    {
+      "publication": "NY Post",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 35139401
+    },
+    {
+      "publication": "The Independent UK",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 31648119
+    },
+    {
+      "publication": "Aol",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 30808828
+    },
+    {
+      "publication": "Euronews",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 3 (20M-50M)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 22432154
+    },
+    {
+      "publication": "LA Times",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 16415474
+    },
+    {
+      "publication": "Mint",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 15336491
+    },
+    {
+      "publication": "U.S. News & World Report",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 14743096
+    },
+    {
+      "publication": "NewsBreak",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 13954344
+    },
+    {
+      "publication": "The Independent US",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 11490816
+    },
+    {
+      "publication": "The Economic Times",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 4 (10M-20M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 10920568
+    },
+    {
+      "publication": "CTV News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 8230076
+    },
+    {
+      "publication": "Charlotte Business Journal",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 6053869
+    },
+    {
+      "publication": "The Straits Times",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "publications.xlsx"
+      ],
+      "uvm": 4701177
+    },
+    {
+      "publication": "The Irish Times",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3925959
+    },
+    {
+      "publication": "CP24",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3676175
+    },
+    {
+      "publication": "Newsmax",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3453626
+    },
+    {
+      "publication": "Barron's",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 3311810
+    },
+    {
+      "publication": "Deseret News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 2509200
+    },
+    {
+      "publication": "Ground News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 2195838
+    },
+    {
+      "publication": "ABC News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 1100284
+    },
+    {
+      "publication": "ARY News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 1096508
+    },
+    {
+      "publication": "Flipboard",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 1026328
+    },
+    {
+      "publication": "Financial Post",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 990101
+    },
+    {
+      "publication": "Sherwood News",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 989795
+    },
+    {
+      "publication": "Inkl",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 429685
+    },
+    {
+      "publication": "Emirates 24/7",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 291801
+    },
+    {
+      "publication": "Dnyuz",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 235687
+    },
+    {
+      "publication": "WN.com",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 199209
+    },
+    {
+      "publication": "IndexBox",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 142583
+    },
+    {
+      "publication": "The Daily Record",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 83770
+    },
+    {
+      "publication": "Startup",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 82345
+    },
+    {
+      "publication": "e27",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 75392
+    },
+    {
+      "publication": "CNA",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 40840
+    },
+    {
+      "publication": "Financial Promoter",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 2602
+    },
+    {
+      "publication": "Impact Newswire",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 96
+    },
+    {
+      "publication": "AMB Crypto",
+      "category": "Other / Watchlist",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Abendzeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Agence France-Presse (AFP)",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Ars Technica",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "BILD",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "BTC ECHO",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Barrons",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Be In Crypto",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Benzinga/Techopedia",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Bilanz",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Bitcoinist:NewsBTC",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Blick",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "BlockBeats",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Boersen Zeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Business Today Egypt",
+      "category": "Other / Watchlist",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Börsen-Zeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CNET",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Cadena Noticias Venezuela",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Coin Academy",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Coin Gabbar",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Coin Tribune",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CoinCodex",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CoinSpeaker, U.Today",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Coins.fr",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Cointonaute",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CriptoNoticias Panama",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto Briefing",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto Daily",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto Facil",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Crypto Valley Journal",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "CryptoGlobe",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Cryptonaute",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Daily Mail",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "DeFi Rate",
+      "category": "Other / Watchlist",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Der Spiegel",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Der Tagesspiegel",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Deutsche Welle (DW)",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Diario Bitcoin",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Diario El Salvador",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Die Welt",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Die Zeit",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Early Brief",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "EduBourse",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "FSTech",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "FT BRR",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "FinTech Magazine",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Finance Feeds",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Crypto",
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "FinanceFWD",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Financial Afrik",
+      "category": "Other / Watchlist",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Financial News",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Finews.com",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Fintech Switzerland",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Finyear",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Focus",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Frankfurter Allgemeine Zeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Futura",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Futurism",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Handelsblatt",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Handelszeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Heise online",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Inside World Football",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Investor's Business Daily",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Journal du Coin",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Kryptoszene",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "La Nación Costa Rica",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "La Tribune",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Le Figaro",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Le Monde",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Le Temps",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Les Echos",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "MSN UK",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Mariblock",
+      "category": "Other / Watchlist",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Market Watch",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Marketplace",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Money",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Morocco World News",
+      "category": "Other / Watchlist",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "NBC News",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional",
+        "Sport"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "NPR",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Neue Zürcher Zeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "New York Post",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Newsweek",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Numerara",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "PCMag",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Paypers",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Portal do Bitcoin",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Portla do Bitcon",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "SCMP",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "SCMP / The Korea Times",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Sifted",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Sportico",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Sueddeutsche Zeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tages Anzeiger",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tamedia AG",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Taz.de / Die Tageszeitung",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tech Crunch",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tech.co",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tech.eu",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "TechBullion",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "TechCabal",
+      "category": "Other / Watchlist",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "TechRadar",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Athletic",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Big Whale",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Digital Banker",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Hill",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Hustle",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Independent",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Indpendent",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Inquirer",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Motley Fool",
+      "category": "Other / Watchlist",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto",
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Street",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto",
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx",
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Ticketing Business",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Times UK",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Toronto Star",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Verge",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "TheStreet",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "This is Money",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "This is Money Podcast",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "This is Money and Mail Online",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tom's Guide",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tribune de Genève",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "U.Today",
+      "category": "Other / Watchlist",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "UKTN",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "USA Today",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "VICE",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "VentureBeat",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Vulcan Post",
+      "category": "Other / Watchlist",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "WIRED",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "WIRED Magazine",
+      "category": "Other / Watchlist",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Watson News",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Windows Report",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "WireCutter",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "WirtschaftsWoche",
+      "category": "Other / Watchlist",
+      "region": "EU",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Yellow.com",
+      "category": "Other / Watchlist",
+      "region": "Crypto (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Crypto"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "ZDNet",
+      "category": "Other / Watchlist",
+      "region": "Mainstream (America/Global - these reporters do not need to be based in the region to cover the news)",
+      "tier": "",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "ZyCrypto",
+      "category": "Other / Watchlist",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Asianet News",
+      "category": "Regional / Emerging Markets",
+      "region": "Global",
+      "tier": "News Publication Tier 5 (Under 10M)",
+      "beats": [
+        "Mainstream"
+      ],
+      "sources": [
+        "publications.xlsx"
+      ],
+      "uvm": 9419290
+    },
+    {
+      "publication": "Africa Tech Summit Podcast",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "African Business Magazine",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Be In Crypto Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "DealStreetAsia",
+      "category": "Regional / Emerging Markets",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Disrupt Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Disrupt Africa Podcast",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "El Financiero Mexico",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Estadão (O Estado de S. Paulo) Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Exame Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Finews.asia",
+      "category": "Regional / Emerging Markets",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Fintech Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Fintech News Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Folha de S.Paulo Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Forbs Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "IT News Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "InfoMoney Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "La Jornada Mexico",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "O Globo Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Reforma Mexico",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tabasco HOY Mexico",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tech Africa News",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Tech In Asia",
+      "category": "Regional / Emerging Markets",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Techpoint Africa",
+      "category": "Regional / Emerging Markets",
+      "region": "Africa",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "The Asian Banker",
+      "category": "Regional / Emerging Markets",
+      "region": "APAC",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Valor Econômico Brazil",
+      "category": "Regional / Emerging Markets",
+      "region": "LATAM (skip Argentina + Venezuela)",
+      "tier": "",
+      "beats": [
+        "Regional"
+      ],
+      "sources": [
+        "Medialist.xlsx"
+      ],
+      "uvm": 0
+    },
+    {
+      "publication": "Sports Business Journal",
+      "category": "Sports / Prediction Markets",
+      "region": "Global",
+      "tier": "",
+      "beats": [
+        "Sport"
+      ],
+      "sources": [
+        "Medialist2.xlsx"
+      ],
+      "uvm": 0
+    }
+  ],
+  "categories": [
+    "Mainstream / Business",
+    "Crypto Trade / Market",
+    "Fintech / Payments",
+    "Institutional / Finance",
+    "Regional / Emerging Markets",
+    "Policy / Regulation",
+    "Sports / Prediction Markets",
+    "Other / Watchlist"
+  ]
+}
